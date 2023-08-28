@@ -1,0 +1,435 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2019/dev/Debian) (preloaded format=pdflatex 2019.4.29)  16 MAY 2019 22:45
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**template_latex.tex
+(./template_latex.tex
+LaTeX2e <2018-12-01>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks14
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen103
+))
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen104
+)
+(/usr/share/texlive/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box27
+\strutbox@=\box28
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen112
+\Gin@req@width=\dimen113
+)
+(/usr/share/texlive/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/share/texlive/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count100
+\Gm@cntv=\count101
+\c@Gm@tempcnt=\count102
+\Gm@bindingoffset=\dimen114
+\Gm@wd@mp=\dimen115
+\Gm@odd@mp=\dimen116
+\Gm@even@mp=\dimen117
+\Gm@layoutwidth=\dimen118
+\Gm@layoutheight=\dimen119
+\Gm@layouthoffset=\dimen120
+\Gm@layoutvoffset=\dimen121
+\Gm@dimlist=\toks21
+)
+(./template_latex.aux)
+\openout1 = `template_latex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 21.
+LaTeX Font Info:    ... okay on input line 21.
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count103
+\scratchdimen=\dimen122
+\scratchbox=\box29
+\nofMPsegments=\count104
+\nofMParguments=\count105
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count106
+\MPscratchDim=\dimen123
+\MPnumerator=\count107
+\makeMPintoPDFobject=\count108
+\everyMPtoPDFconversion=\toks23
+) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/usr/share/texlive/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69684pt, 56.90553pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23582pt, 56.90552pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69684pt
+* \textheight=731.23582pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Try loading font information for U+msa on input line 31.
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 31.
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<a_h_1.pdf, id=1, 433.62pt x 289.08pt>
+File: a_h_1.pdf Graphic file (type pdf)
+<use a_h_1.pdf>
+Package pdftex.def Info: a_h_1.pdf  used on input line 33.
+(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
+<a_h_01.pdf, id=2, 433.62pt x 289.08pt>
+File: a_h_01.pdf Graphic file (type pdf)
+<use a_h_01.pdf>
+Package pdftex.def Info: a_h_01.pdf  used on input line 34.
+(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
+<a_h_001.pdf, id=3, 433.62pt x 289.08pt>
+File: a_h_001.pdf Graphic file (type pdf)
+<use a_h_001.pdf>
+Package pdftex.def Info: a_h_001.pdf  used on input line 35.
+(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 31--44
+
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./a_h_1.pdf> <./a_h_01.pdf
+
+
+pdfTeX warning: /usr/bin/pdflatex (file ./a_h_01.pdf): PDF inclusion: multiple 
+pdfs with page group included in a single page
+> <./a_h_001.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./a_h_001.pdf): PDF inclusion: multiple
+ pdfs with page group included in a single page
+>]
+<b_h_1.pdf, id=118, 433.62pt x 289.08pt>
+File: b_h_1.pdf Graphic file (type pdf)
+<use b_h_1.pdf>
+Package pdftex.def Info: b_h_1.pdf  used on input line 46.
+(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
+<b_h_01.pdf, id=119, 433.62pt x 289.08pt>
+File: b_h_01.pdf Graphic file (type pdf)
+<use b_h_01.pdf>
+Package pdftex.def Info: b_h_01.pdf  used on input line 47.
+(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
+<b_h_001.pdf, id=120, 433.62pt x 289.08pt>
+File: b_h_001.pdf Graphic file (type pdf)
+<use b_h_001.pdf>
+Package pdftex.def Info: b_h_001.pdf  used on input line 48.
+(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
+<b_h_0001.pdf, id=121, 433.62pt x 289.08pt>
+File: b_h_0001.pdf Graphic file (type pdf)
+<use b_h_0001.pdf>
+Package pdftex.def Info: b_h_0001.pdf  used on input line 49.
+(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
+<dist_h_1.pdf, id=122, 433.62pt x 289.08pt>
+File: dist_h_1.pdf Graphic file (type pdf)
+<use dist_h_1.pdf>
+Package pdftex.def Info: dist_h_1.pdf  used on input line 51.
+(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
+<dist_h_01.pdf, id=123, 433.62pt x 289.08pt>
+File: dist_h_01.pdf Graphic file (type pdf)
+<use dist_h_01.pdf>
+Package pdftex.def Info: dist_h_01.pdf  used on input line 52.
+(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
+<dist_h_001.pdf, id=124, 433.62pt x 289.08pt>
+File: dist_h_001.pdf Graphic file (type pdf)
+<use dist_h_001.pdf>
+Package pdftex.def Info: dist_h_001.pdf  used on input line 53.
+(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
+<dist_h_0001.pdf, id=125, 433.62pt x 289.08pt>
+File: dist_h_0001.pdf Graphic file (type pdf)
+<use dist_h_0001.pdf>
+Package pdftex.def Info: dist_h_0001.pdf  used on input line 54.
+(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 45--55
+
+ []
+
+[2 <./b_h_1.pdf> <./b_h_01.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./b_h_01.pdf): PDF inclusion: multiple 
+pdfs with page group included in a single page
+> <./b_h_001.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./b_h_001.pdf): PDF inclusion: multiple
+ pdfs with page group included in a single page
+> <./b_h_0001.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./b_h_0001.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+> <./dist_h_1.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./dist_h_1.pdf): PDF inclusion: multipl
+e pdfs with page group included in a single page
+> <./dist_h_01.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./dist_h_01.pdf): PDF inclusion: multip
+le pdfs with page group included in a single page
+> <./dist_h_001.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./dist_h_001.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+> <./dist_h_0001.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./dist_h_0001.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+>]
+<energ_h_1.pdf, id=418, 433.62pt x 289.08pt>
+File: energ_h_1.pdf Graphic file (type pdf)
+<use energ_h_1.pdf>
+Package pdftex.def Info: energ_h_1.pdf  used on input line 57.
+(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
+<energ_h_01.pdf, id=419, 433.62pt x 289.08pt>
+File: energ_h_01.pdf Graphic file (type pdf)
+<use energ_h_01.pdf>
+Package pdftex.def Info: energ_h_01.pdf  used on input line 58.
+(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
+<energ_h_001.pdf, id=420, 433.62pt x 289.08pt>
+File: energ_h_001.pdf Graphic file (type pdf)
+<use energ_h_001.pdf>
+Package pdftex.def Info: energ_h_001.pdf  used on input line 59.
+(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
+<energ_h_0001.pdf, id=421, 433.62pt x 289.08pt>
+File: energ_h_0001.pdf Graphic file (type pdf)
+<use energ_h_0001.pdf>
+Package pdftex.def Info: energ_h_0001.pdf  used on input line 60.
+(pdftex.def)             Requested size: 227.62204pt x 151.74721pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 56--61
+
+ []
+
+[3 <./energ_h_1.pdf> <./energ_h_01.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./energ_h_01.pdf): PDF inclusion: multi
+ple pdfs with page group included in a single page
+> <./energ_h_001.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./energ_h_001.pdf): PDF inclusion: mult
+iple pdfs with page group included in a single page
+> <./energ_h_0001.pdf
+
+pdfTeX warning: /usr/bin/pdflatex (file ./energ_h_0001.pdf): PDF inclusion: mul
+tiple pdfs with page group included in a single page
+>] (./template_latex.aux) ) 
+Here is how much of TeX's memory you used:
+ 2884 strings out of 494518
+ 39256 string characters out of 6176313
+ 104169 words of memory out of 5000000
+ 6504 multiletter control sequences out of 15000+600000
+ 9189 words of font info for 35 fonts, out of 8000000 for 9000
+ 36 hyphenation exceptions out of 8191
+ 41i,4n,28p,281b,113s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+r12.pfb>
+Output written on template_latex.pdf (3 pages, 1395312 bytes).
+PDF statistics:
+ 586 PDF objects out of 1000 (max. 8388607)
+ 139 compressed objects within 2 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 76 words of extra memory for PDF output out of 10000 (max. 10000000)
+
